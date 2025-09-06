@@ -4,8 +4,5 @@ Análise detalhada do uso ético da Inteligência Artificial em documentos jurí
 
 Este repositório contém o trabalho acadêmico em PDF sobre o uso ético da Inteligência Artificial em documentos jurídicos, analisando o caso de um advogado australiano penalizado por citações falsas geradas por IA.
 
-## Arquivo
-- **Trabalho PDF:** [Analise_Etica_IA.pdf](./Analise_Etica_IA.pdf)
-
 ## Link de Referência
 - [Notícia sobre o caso](https://www.theguardian.com/law/2025/sep/03/lawyer-caught-using-ai-generated-false-citations-in-court-case-penalised-in-australian-first)
